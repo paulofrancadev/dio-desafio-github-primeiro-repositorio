@@ -4,4 +4,4 @@
 ## Links ùteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[download Git](https://git-scm.com/downloads)
+[Download Git](https://git-scm.com/downloads)
