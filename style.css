@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(240, 233, 233);
+    font: 13pt Arial;
+}
+
+
+h1 {
+    color: darkgoldenrod;
+}
+
+h2 {
+    color: rgb(125, 92, 8);
+}
+
+
+aside {
+    display: block; 
+    font-size: 10pt;
+    text-align: justify;
+    background-color: rgb(222, 222, 222);
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
